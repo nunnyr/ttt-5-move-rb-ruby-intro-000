@@ -9,7 +9,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " ", ]
 #writes out a welcome message
 puts "Welcome to Tic Tac Toe!"
 
-puts "number"
+puts "Please write a number between 0-9"
 
 input = gets.strip
 
