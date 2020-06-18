@@ -6,6 +6,8 @@ require_relative '../lib/move.rb'
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " ", ]
 
+puts "Welcome to Tic Tac Toe!"
+
 puts "Please write a number between 0-9"
 
 input = gets.strip
